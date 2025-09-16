@@ -1,0 +1,2 @@
+#when web will be in underconst mode
+http://127.0.0.1:8000/admin/?u=123
